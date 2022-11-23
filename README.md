@@ -1,1 +1,1 @@
-# wgo-opencode
+# wgo-projects
